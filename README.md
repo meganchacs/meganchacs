@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @meganchacs
 - 👀 I’m interested in front end web development
-- 🌱 I’m currently learning JavaScript, NodeJS, Express, and more!
+- 🌱 I’m currently learning JavaScript, NodeJS, Express, and more through Colt Steele's Web Developer Bootcamp.
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: meganchacs@gmail.com
 
