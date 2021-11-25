@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @meganchacs
-- 👀 I’m interested in front end web development
+- 👀 I’m interested in full stack web development
 - 🌱 I’m currently learning JavaScript, NodeJS, Express, MongoDB via Colt Steele's Web Developer Bootcamp.
 - 🧰 I'm also building a full CRUD app using MongoDB, Express, and Node.
 - 💞️ I’m looking to collaborate on projects, join a hackathon, and exchange ideas and solutions with other devs.
